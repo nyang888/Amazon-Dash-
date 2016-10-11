@@ -1,0 +1,1 @@
+ssh -i "idiots.pem" ubuntu@ec2-54-234-221-196.compute-1.amazonaws.com
